@@ -22,7 +22,7 @@ Chats.png
 Unread.png
 Updates.png
 Calls.png
-Faourites.png
+Favourites.png
 Groups.png
 Communities.png
 
