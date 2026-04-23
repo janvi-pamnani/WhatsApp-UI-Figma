@@ -17,14 +17,14 @@ It demonstrates modern interface design, user flow, and interactive prototyping.
 https://www.figma.com/proto/4hD27BioO9Iq9vtSGyR1jG/WhatsApp-UI-Clone?node-id=2-4&p=f&t=u3jQSTOTIRUr3YVy-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4
 
 # Screenshots
-Logo.png
-Chats.png
-Unread.png
-Updates.png
-Calls.png
-Favourites.png
-Groups.png
-Communities.png
+Downloads/Logo.png
+Downloads/Chats.png
+Downloads/Unread.png
+Downloads/Updates.png
+Downloads/Calls.png
+Downloads/Favourites.png
+Downloads/Groups.png
+Downloads/Communities.png
 
 # What I Learned:
 
